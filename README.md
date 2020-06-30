@@ -39,6 +39,10 @@ If you want to instead want to get started contributing to NIO itself, check out
 - [Swift NIO Extras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO
 - [SmokeFramework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language
 
+### Apps
+
+- [https://github.com/ProxymanApp/Proxyman] - HTTP Debugging Proxy, uses SwiftNIO for networking
+
 ### Examples
 
 - [Swift NIO Examples](https://github.com/apple/swift-nio-examples) - A set of NIO examples
