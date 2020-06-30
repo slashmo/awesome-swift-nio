@@ -39,6 +39,7 @@ If you want to instead want to get started contributing to NIO itself, check out
 - [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime) - Swift implementation of AWS Lambda Runtime
 - [Swift NIO Extras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO
 - [SmokeFramework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language
+- [MongoKitten](https://github.com/OpenKitten/MongoKitten) - A MongoDB driver implementation in Swift
 
 ### Apps
 
