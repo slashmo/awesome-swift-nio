@@ -41,7 +41,7 @@ If you want to instead want to get started contributing to NIO itself, check out
 
 ### Apps
 
-- [https://github.com/ProxymanApp/Proxyman] - HTTP Debugging Proxy, uses SwiftNIO for networking
+- [Proxyman](https://github.com/ProxymanApp/Proxyman) - HTTP Debugging Proxy, uses SwiftNIO for networking
 
 ### Examples
 
