@@ -8,6 +8,10 @@ Do you know of something that's missing on this list? Please [open a pull reques
 
 If you want to instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue)
 
+## Articles
+
+- ["Loops" with Futures](https://forums.swift.org/t/loops-with-futures/37216) - Using recursion to asynchronously perform multiple requests
+
 ## Books
 
 - [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty), which inspired the creation of NIO
