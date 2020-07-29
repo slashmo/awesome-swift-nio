@@ -40,6 +40,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 - [Swift NIO Extras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO
 - [SmokeFramework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language
 - [MongoKitten](https://github.com/OpenKitten/MongoKitten) - A MongoDB driver implementation in Swift
+- [netrek-server-swift](https://github.com/darrellroot/netrek-server-swift) - A Swift reimplementation of the original Internet game server: Netrek.  Uses Swift-NIO, Swift Argument Parser, Swift Log, and Swift Service Lifecycle.
 
 ### Apps
 
