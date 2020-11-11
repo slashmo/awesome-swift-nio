@@ -41,6 +41,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 - [SmokeFramework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language
 - [MongoKitten](https://github.com/OpenKitten/MongoKitten) - A MongoDB driver implementation in Swift
 - [netrek-server-swift](https://github.com/darrellroot/netrek-server-swift) - A Swift reimplementation of the original Internet game server: Netrek.  Uses Swift-NIO, Swift Argument Parser, Swift Log, and Swift Service Lifecycle.
+- [ClickHouseNIO](https://github.com/patrick-zippenfenig/ClickHouseNIO) - High performance Swift [ClickHouse](https://clickhouse.tech) client written in pure Swift. With [ClickHouseVapor](https://github.com/patrick-zippenfenig/ClickHouseVapor) it offers seamless ORM abstraction and connection pooling with Vapor.
 
 ### Apps
 
